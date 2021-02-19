@@ -8,6 +8,7 @@
   },
   "main": "",
   "devDependencies": {
+    "browser-sync": "^2.26.14",
     "htmlhint": "^0.14.2",
     "stylelint": "^13.8.0",
     "stylelint-config-rational-order": "^0.1.2",
