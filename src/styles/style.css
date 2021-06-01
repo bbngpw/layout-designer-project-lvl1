@@ -41,6 +41,10 @@ h3 {
   font-size: 34px;
 }
 
+p {
+  margin-bottom: 0;
+}
+
 header {
   background-color: #f5f4f0;
 }
@@ -131,7 +135,41 @@ header img {
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
 
-.page-index {
+.page-navigation {
   margin-top: -200px;
   padding-top: 100px;
+}
+
+.page-navigation .h2 {
+  width: 350px;
+  margin-bottom: 20px;
+
+  color: #f5f4f0;
+  font-size: 52px;
+}
+
+.bias-card {
+  display: block;
+  box-sizing: border-box;
+  width: 350px;
+  margin-bottom: 20px;
+  padding: 24px;
+
+  color: #2a2626;
+  text-decoration: none;
+
+  background-color: #f5f4f0;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-number {
+  margin-bottom: 40px;
+  font-size: 64px;
+  font-family: "Neucha", cursive;
+  line-height: 1;
 }
