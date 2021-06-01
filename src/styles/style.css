@@ -85,6 +85,10 @@ header img {
   margin-top: 185px;
 }
 
+.bgc-dark {
+  background-color: #42413c;
+}
+
 .column {
   width: 540px;
 }
@@ -113,4 +117,21 @@ header img {
 .z-2 {
   position: relative;
   z-index: 2;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.video {
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
+}
+
+.page-index {
+  margin-top: -200px;
+  padding-top: 100px;
 }
