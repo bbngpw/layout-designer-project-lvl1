@@ -161,6 +161,16 @@ header img {
   background-color: #f5f4f0;
 }
 
+.bias-card:hover {
+  color: #f5f4f0;
+
+  background-color: #fe8a02;
+}
+
+.bias-card:hover h3 {
+  color: #f5f4f0;
+}
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
